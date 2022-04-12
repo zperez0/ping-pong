@@ -22,8 +22,8 @@ end
 
 
 # to check if runs cd in lib, use puts
-#  ex: puts ping_pong(25)
+puts ping_pong(25)
 
-# puts "enter a number"
-# number = gets.chomp.to_i
-#  puts ping_pong(number)
+puts "enter a number"
+number = gets.chomp.to_i
+puts ping_pong(number)
